@@ -58,7 +58,7 @@ pip install pandas numpy matplotlib seaborn
 
 1. Clone the repository:
    ```bash
-git clone https://github.com/yourusername/customer-shopping-analysis.git
+[git clone https://github.com/yourusername/customer-shopping-analysis.git](https://github.com/Pragyan-Dhakal/Customer-Shopping-Analysis-in-Python.git)
 cd customer-shopping-analysis
 ```
 2. Launch the Jupyter Notebook:

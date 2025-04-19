@@ -23,7 +23,6 @@ Welcome to the **Customer Shopping Data Analysis** repository! This project expl
 - [Technologies Used](#technologies-used)
 - [Conclusion](#conclusion)
 - [Author](#author)
-- [License](#license)
 
 ---
 
